@@ -209,7 +209,7 @@ async function control_add_recipe(recieved_new_recipe)
 }
 
 
-function new-feture()
+function new_feture()
 {
   console.log("this is the new new feture branch")
 }
